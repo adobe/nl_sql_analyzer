@@ -22,7 +22,7 @@
 
 This is the repo for the [<img width="30" height="30" alt="iui_icon" src="https://github.com/user-attachments/assets/bc496a3c-fad1-4950-a386-79df579d6ffc" /> IUI 2025 paper](https://arxiv.org/abs/2502.15980)
 
-- [Backup repo for latest updates](https://github.com/magic-YuanTian/SQLsynth)*
+- [Backup repo for latest updates](https://github.com/magic-YuanTian/SQLsynth)
   
 
 SQLsynth is not only an **interactive data annotation** but also **automated data synthesis** tool designed for quickly creating highly customized (e.g., schema, DB records, distribution) text-to-SQL datasets. 
