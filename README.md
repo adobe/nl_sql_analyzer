@@ -30,6 +30,8 @@ SQLsynth is not only an **interactive data annotation** but also **automated dat
 
 🌐 **Live Demo**: [Try me](http://18.207.218.62:3503/) 👈🏻
 
+*Note: Click the update button after customizing the schema*
+
 <br>
 
 ## 🌟 Features
